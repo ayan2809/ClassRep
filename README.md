@@ -6,8 +6,8 @@ Class Rep is a web tool to record the audio from the online classes or recorded 
 
 ##Timeline
 
-✅Integrate the Google Speech-to-Text Api and generate text.
-✅Concatenate the text obtained from all the video divisions.
-✅Generate and evaluate the questions from the text.
-✅Complete the backend of the project using Django(handleing the workflow).
+✅Integrate the Google Speech-to-Text Api and generate text. <br />
+✅Concatenate the text obtained from all the video divisions. <br />
+✅Generate and evaluate the questions from the text. <br />
+✅Complete the backend of the project using Django(handleing the workflow). <br />
 🔳Build a frontend for the web app using React.
